@@ -1,4 +1,4 @@
-md5m-text-to-mysql-export-tool
+md5m text to mysql export tool
 ================================
 
 Delphi application developed for moving text files to MySQL database. 
